@@ -133,6 +133,9 @@ http://localhost:8000/listings
 <img width="946" height="503" alt="image" src="https://github.com/user-attachments/assets/1450ac88-b6b6-4723-ac23-9d3f763428b7" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/b4816082-e8e9-4a36-88cc-9322c33a0ef0" />
 <img width="957" height="502" alt="image" src="https://github.com/user-attachments/assets/b90384de-bc60-463d-8f74-5139ae0a8d16" />
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/4b945c55-ac18-4a73-afac-6008d11f1a41" />
+
+
 
 
 
