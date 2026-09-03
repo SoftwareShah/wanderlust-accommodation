@@ -2,14 +2,6 @@
 
 A full-stack travel listing web application where users can create, explore, and review travel destinations. Built with Node.js, Express, MongoDB, and Cloudinary.
 
----
-
-## 🚀 Live Demo
-
-> Coming soon after deployment
-
----
-
 ## ✨ Features
 
 - 🔐 User Authentication (Register / Login / Logout) using Passport.js
