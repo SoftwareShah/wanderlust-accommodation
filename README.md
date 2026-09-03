@@ -130,8 +130,20 @@ http://localhost:8000/listings
 ---
 
 ## 📸 Screenshots
+<img width="943" height="494" alt="image" src="https://github.com/user-attachments/assets/fe186c10-a1dd-48e8-af0c-7fa18ae9b86d" />
+<img width="623" height="317" alt="image" src="https://github.com/user-attachments/assets/010dfa13-d2aa-4b39-b2cc-e6eeb9488b5b" />
+<img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/c85c58ef-d544-47a4-9852-c474c7b4f785" />
+<img width="941" height="528" alt="image" src="https://github.com/user-attachments/assets/adf45979-6d37-4cba-b1d0-c6c5e544f081" />
+<img width="946" height="503" alt="image" src="https://github.com/user-attachments/assets/1450ac88-b6b6-4723-ac23-9d3f763428b7" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/b4816082-e8e9-4a36-88cc-9322c33a0ef0" />
+<img width="957" height="502" alt="image" src="https://github.com/user-attachments/assets/b90384de-bc60-463d-8f74-5139ae0a8d16" />
 
-> Add screenshots here after deployment
+
+
+
+
+
+
 
 ---
 
